@@ -1,0 +1,12 @@
+langchain
+ipykernel
+openai
+pandas  
+numpy
+scikit-learn    
+matplotlib
+seaborn
+nltk
+beautifulsoup4
+requests
+flask
