@@ -1,12 +1,80 @@
+# LangChain ecosystem (latest versions)
 langchain
-ipykernel
+langchain-openai
+langchain-community
+langchain-text-splitters
+langsmith
+langgraph
+
+# OpenAI
 openai
-pandas  
+
+# Environment
+python-dotenv
+
+# Jupyter
+ipykernel
+
+# Data Science
+pandas
 numpy
-scikit-learn    
+scikit-learn
 matplotlib
 seaborn
+
+# NLP
 nltk
-beautifulsoup4
+
+# Web
 requests
 flask
+beautifulsoup4
+bs4
+
+# Document Loaders
+pypdf
+pymupdf
+arxiv<2.0.0
+
+# Database
+SQLAlchemy
+
+# Vector Store
+chromadb
+langchain_chroma
+
+#langchain_huggingface
+langchain_huggingface
+
+#ollama
+ollama
+
+#Sentence Transformers
+sentence-transformers
+
+#Transformers
+transformers
+
+#Hugging Face
+huggingface_hub
+
+#PyTorch
+torch
+
+#TensorFlow
+tensorflow
+
+#LangChain Hugging Face
+langchain_huggingface  
+
+#FAISS
+Faiss-cpu   
+
+#embedding models
+#CHROMA Embedding model
+chromadb
+langchain_chroma
+
+#HUGGINGFACE Embedding model
+huggingface_hub
+

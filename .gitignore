@@ -5,6 +5,8 @@ venv/
 env/
 .env/
 .env
+myenv
+myenv/*
 
 # Python cache
 __pycache__/
@@ -12,3 +14,8 @@ __pycache__/
 
 # Other common folders
 .vscode/
+.DS_Store
+./Lang_chain
+.ipynb_checkpoints
+.DS_Store   
+./chroma_db 
